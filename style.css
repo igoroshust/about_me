@@ -11,6 +11,10 @@ p {
     color: white;
 }
 
+a {
+    text-decoration: none;
+}
+
 h3 {
     color: #1C1C1C;
 }
@@ -89,7 +93,7 @@ h3 {
     background-color: #f1f1f1;
 }
 
-.content a {
+a {
     text-decoration: none;
 }
 
